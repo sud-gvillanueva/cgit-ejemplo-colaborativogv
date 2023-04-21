@@ -1,0 +1,13 @@
+commit 859add4fa5779247d9e3e7632c64486773fcf637
+Author: Gabriel Villanueva <gabriel.villanueva@sasf.net>
+Date:   Wed Apr 19 20:31:42 2023 -0500
+
+    Seguimiento de todos los archivos en el repositorio
+
+commit 968bb762f5b217a178e714e871df98e1c694fe9c
+Author: Gabriel Villanueva <gabriel.villanueva@sasf.net>
+Date:   Wed Apr 19 20:19:50 2023 -0500
+
+    Mi primer versionamiento
+    
+    * Agregue el archivo con el texto argumentativo
